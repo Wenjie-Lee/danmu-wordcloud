@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 不上传项目文件夹.idea
+.idea/
+
+# 不上传txt/
+txt/
+
+# 不上传弹幕文件
+138243/
+1126960/
